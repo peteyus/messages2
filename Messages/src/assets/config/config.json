@@ -1,0 +1,7 @@
+{
+    "apiServer": {
+      "url": "https://localhost:7299", 
+      "version": "v1"
+    },
+    "Comments:" : "TODO: This feels like something that will need to be excluded from source eventually Or somehow provided via server level config?"
+}
